@@ -1,6 +1,7 @@
 <div align="left">
   <h1>Codex DeepSeekHarness Bridge</h1>
   <p><strong>让 Codex 把本机项目任务派发给 DeepSeek Harness 会话,本仓库全部代码均由 Codex 生成。</strong></p>
+  <p><a href="./README.md">English</a></p>
   <img
     src="./assets/codex-dsh-bridge-settings.png"
     alt="DeepSeek Harness 中的 Codex DSH Bridge 设置"
