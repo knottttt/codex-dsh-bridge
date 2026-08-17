@@ -1,17 +1,27 @@
 {
   "name": "codex-dsh-bridge",
-  "version": "0.2.0+codex.20260817080739",
+  "version": "0.3.0+codex.20260817083721",
   "description": "Local Codex bridge for dispatching work to DeepSeek Harness sessions, with settings inside Harness.",
   "author": {
-    "name": "Local developer"
+    "name": "Codex-generated project",
+    "url": "https://github.com/knottttt/codex-dsh-bridge"
   },
+  "homepage": "https://github.com/knottttt/codex-dsh-bridge",
+  "repository": "https://github.com/knottttt/codex-dsh-bridge",
+  "keywords": [
+    "codex",
+    "deepseek-harness",
+    "dsh",
+    "mcp",
+    "local-collaboration"
+  ],
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Codex DSH Bridge",
     "shortDescription": "Dispatch local tasks to DeepSeek Harness",
     "longDescription": "Connects Codex to the local DeepSeek Harness Web API so Codex can create sessions, send tasks, wait for completion, and read results. Its endpoint and enabled state can be managed from Harness Settings \u2192 Plugins \u2192 Plugin configuration.",
-    "developerName": "Local developer",
+    "developerName": "Codex-generated project",
     "category": "Productivity",
     "capabilities": [
       "Interactive",
@@ -23,6 +33,7 @@
       "\u5217\u51fa\u5f53\u524d\u9879\u76ee\u5bf9\u5e94\u7684 DSH \u4f1a\u8bdd\u3002",
       "\u7b49\u5f85 DSH \u4f1a\u8bdd\u5b8c\u6210\u5e76\u8bfb\u53d6\u7ed3\u679c\u3002"
     ],
-    "brandColor": "#4D6BFE"
+    "brandColor": "#4D6BFE",
+    "websiteURL": "https://github.com/knottttt/codex-dsh-bridge"
   }
 }

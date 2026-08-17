@@ -1,6 +1,6 @@
 {
   "name": "codex-dsh-bridge-companion",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "DeepSeek Harness settings companion for the local Codex DSH Bridge.",
   "type": "module",
   "main": "./lib/index.js",
@@ -34,5 +34,10 @@
     "@deepseek-ai/cordis": "^4.0.1",
     "@deepseek-ai/dsh-host-webserver": "^0.1.0-rc.6",
     "@deepseek-ai/dsh-settings": "^0.1.0-rc.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knottttt/codex-dsh-bridge.git",
+    "directory": "dsh-plugin"
   }
 }
