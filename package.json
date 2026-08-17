@@ -1,0 +1,10 @@
+{
+  "name": "codex-dsh-bridge",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Local MCP bridge and DeepSeek Harness settings companion.",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs dsh-plugin/tests/*.test.mjs"
+  }
+}

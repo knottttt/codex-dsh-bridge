@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "dsh-local-bridge": {
+      "command": "node",
+      "args": [
+        "./scripts/server.mjs"
+      ],
+      "cwd": ".",
+      "tool_timeout_sec": 330
+    }
+  }
+}
